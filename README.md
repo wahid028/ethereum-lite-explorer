@@ -23,31 +23,9 @@ No need for servers, hosting or trusting any third parties to display chain data
 - [Getting started](#getting-started)
     - [Prerequisites](#prerequisites)
     - [Configuration](#configuration)
-    - [Running in Docker](#running-in-docker)
-    - [Running in Kubernetes](#running-in-kubernetes)
-    - [Building from source](#building-from-source)
+        - [Building from source](#building-from-source)
         - [Deploying the built assets to production](#deploying-the-built-assets-to-production)
         - [Custom build arguments](#custom-build-arguments)
-    - [Example setups](#example-setups)
-        - [With Memento](#with-memento)
-        - [With Infura](#with-infura)
-        - [With Parity Light Client](#with-parity-light-client)
-        - [With Ganache](#with-ganache)
-        - [With Besu](#with-besu)
-    - [Example Deployments](#example-deployments)
-        - [surge.sh](#surgesh)
-- [How to](#how-to)
-    - [Deploy to a domain sub-path](#deploy-to-a-domain-sub-path)
-    - [Show the network name](#show-the-network-name)
-    - [Link to a custom deployment of EthStats](#link-to-a-custom-deployment-of-ethstats)
-    - [Use a custom ETH currency symbol](#use-a-custom-eth-currency-symbol)
-    - [Show the transactions per account in account page](#show-the-transactions-per-account-in-account-page)
-    - [Override specific text strings (translations)](#override-specific-text-strings-translations)
-    - [Use a custom RPC node authentication method](#use-a-custom-rpc-node-authentication-method)
-
-<!-- /TOC -->
-- [Contributing](CONTRIBUTING.md)
-- [License](LICENSE.md)
 
 ## Technical Details
 
