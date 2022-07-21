@@ -46,14 +46,13 @@ The basic functionality of the explorer is implemented via a series of open-sour
 
 ### Prerequisites
 Please make sure you have the following installed and running properly
-- [Node.js](https://nodejs.org/en/download/) >= 8.0 or [Docker](https://www.docker.com/)
+- [Node.js](https://nodejs.org/en/download/) >= 8.0
 - If building it you will also need NPM >= 6.9 (NPM is distributed with Node.js. For more information see: https://www.npmjs.com/get-npm)
 - A JSON-RPC enabled and accessible Ethereum Client, some examples:
     * [An Infura Account](#with-infura)
     * [Parity Light Client](#with-parity-light-client)
     * [Ganache](#with-ganache)
     * [Besu Dev Mode](#with-besu) - private chain example
-- If not using the pre-built Docker images, you will need an HTTP server for serving the app and it must be deployed at the root of the domain/subdomain.
 
 ### Configuration
 
