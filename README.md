@@ -6,14 +6,6 @@ No need for servers, hosting or trusting any third parties to display chain data
 ![image](https://user-images.githubusercontent.com/48195837/180142294-b50a80bf-df50-443f-91a7-2695985c26cc.png)
 
 
-[![CircleCI](https://circleci.com/gh/Alethio/ethereum-lite-explorer.svg?style=svg)](https://circleci.com/gh/Alethio/ethereum-lite-explorer)
-[![Docker](https://images.microbadger.com/badges/version/alethio/ethereum-lite-explorer.svg)](https://hub.docker.com/r/alethio/ethereum-lite-explorer "Get Ethereum Lite Explorer through Docker Hub")
-
-> **WARNING v1.x.x is a breaking update from previous v0.x.x releases**
-
-> NOTICE
-> Please report any bugs using Github's [issues](https://github.com/Alethio/ethereum-lite-explorer/issues/)
-
 ## Contents
 <!-- TOC depthFrom:2 depthTo:4 -->
 
